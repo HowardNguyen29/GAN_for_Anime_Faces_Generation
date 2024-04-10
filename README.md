@@ -10,3 +10,4 @@ Utilizing DCGAN (Deep Convolutional Generative Adversarial Network), this projec
 
 ![image](https://github.com/HowardNguyen29/GAN_for_Anime_Faces_Generation/assets/144277909/6432bece-3abd-42fd-9598-04c3c5a68eb6)
 
+Ps: The result was trained in 5 epochs because of limitation of the computing resources.
